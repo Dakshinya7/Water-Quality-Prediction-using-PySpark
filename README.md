@@ -1,4 +1,4 @@
-# Water Quality Prediction 💧
+# Water Quality Analysis 💧
 
 
 A recent study of Tata Energy Research Institute has shown that in the past 50 years, the availability of fresh water has declined by two-third. In India, nearly, 44 million people have been affected by poor quality of water caused by water pollution. Some poisons, pathogens pollute the water even in low concentration. Natural water pollution is due to silt, clay, animal wastes, minerals etc. Provision of clean water is the bare necessity of every human being. It ought to be the priority of all governments. It is the need of the hour to create public awareness.
