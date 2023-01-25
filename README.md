@@ -35,7 +35,7 @@ PySpark is a Python API to support Python with Apache Spark. PySpark provides Py
 
 ## HOW TO USE 💻
 ### PRE-REQUISITE 🛍️
-· Ubuntu 20.0 or higher version running (install Ubuntu on Oracle VM (Virtual Machine) VirtualBox),
+· Ubuntu 20.0 or higher version running (install Ubuntu on Oracle VM (Virtual Machine) VirtualBox).
 · Anaconda app with Jupyter notebook on Ubuntu. 
 
 ### STEPS TO INSTALL SPARK AND PYSPARK 🪜
@@ -49,5 +49,16 @@ PySpark is a Python API to support Python with Apache Spark. PySpark provides Py
 8.  Install PySpark and run it.
 
 
-## Further Improvements 📈
+## HOW IT IS DONE 🎛️
+> Importing necessary libraries.
+> Reading the dataset and describing it.
+> Data cleaning.
+> EDA - Exploratory Data Analysis.
+> Feature Engineering.
+> Modeling.
+    - Linear Regression Model.
+    - Logistic Regression Model.
+
+
+## FURTHER IMPROVEMENTS 📈
 This was my first PySpark project so there are lot of things to improve upon.
