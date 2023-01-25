@@ -50,12 +50,12 @@ PySpark is a Python API to support Python with Apache Spark. PySpark provides Py
 
 
 ## HOW IT IS DONE 🎛️
-> Importing necessary libraries.
-> Reading the dataset and describing it.
-> Data cleaning.
-> EDA - Exploratory Data Analysis.
-> Feature Engineering.
-> Modeling.
+1. Importing necessary libraries.
+2. Reading the dataset and describing it.
+3. Data cleaning.
+4. EDA - Exploratory Data Analysis.
+5. Feature Engineering.
+6. Modeling.
     - Linear Regression Model.
     - Logistic Regression Model.
 
